@@ -108,7 +108,7 @@ const deleteContact = () => {
 
 const stop = () => {
     console.log('Goodbye Sir!')
-    rl.close()
+    rl.close(a)
 }
 
 
